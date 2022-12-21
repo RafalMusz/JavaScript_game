@@ -7,6 +7,16 @@
   width: 600px;
   height: 600px;
 }
+#enemy1 {
+  border: 3px solid white;
+  background-color: white;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 500px;
+  height: 1000px;
+}
 #controls {
     position: absolute;
     z-index: 10;
